@@ -14,12 +14,10 @@
 ```javascript
 / Enter your Personal Details here
 export const personalDetails = {
-  name: "Pavan MG",
-  tagline: "I build things for web",
+  name: "Monipich MP",
+  tagline: "I build things for Mobiles",
   img: profile,
-  about: `Lorem Ipsum is simply dummy text of the printing and typesetting industry.
-  Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
-  when an unknown printer took a galley of type and scrambled it to make a type specimen book.`,
+  about: `With a Bachelor's in IT Engineering and an ongoing Master's in Entrepreneurship & Project Management, I've honed my skills at FMIS Cambodia and Optistech, leading Flutter projects that handle sensitive data and complex workflows. My passion lies in bridging technology and business—whether upgrading government apps to reduce approval times or freelancing simple tools with ad integration for passive income. I thrive on mentoring teams and applying agile principles to deliver high-impact, monetizable solutions that solve real problems in Cambodia and beyond.\nAs a skilled Flutter developer pursuing a Master's in Entrepreneurship & Project Management, I specialize in crafting secure, user-centric mobile apps that drive efficiency and revenue—from government financial systems to freelance monetized tools, all built with agile precision and a focus on scalable innovation.`,
 };
 
 // Enter your Social Media URLs here

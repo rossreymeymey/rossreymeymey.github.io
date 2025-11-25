@@ -3,7 +3,7 @@
 import logogradient from "./assets/logo.svg";
 import logo from "./assets/logo2.svg";
 // Profile Image
-import profile from "./assets/profile.png";
+import profile from "./assets/profiles.png";
 // Tech stack images
 import html from "./assets/techstack/html.png";
 import css from "./assets/techstack/css.png";
@@ -36,9 +36,9 @@ export const logos = {
 // Enter your Personal Details here
 export const personalDetails = {
   name: "Meymey ROS",
-  tagline: "I build things for Mobile across Native(Android, iOS) and Cross-Platform(Flutter).",
+  tagline: "I build things for Mobile Native(Android) and Cross-Platform(Flutter).",
   img: profile,
-  about: `With a Bachelor's in IT Engineering and an ongoing Master's in Entrepreneurship & Project Management, I've honed my skills at FMIS Cambodia and Optistech, leading Flutter projects that handle sensitive data and complex workflows. My passion lies in bridging technology and business—whether upgrading government apps to reduce approval times or freelancing simple tools with ad integration for passive income. I thrive on mentoring teams and applying agile principles to deliver high-impact, monetizable solutions that solve real problems in Cambodia and beyond.\nAs a skilled Flutter developer pursuing a Master's in Entrepreneurship & Project Management, I specialize in crafting secure, user-centric mobile apps that drive efficiency and revenue—from government financial systems to freelance monetized tools, all built with agile precision and a focus on scalable innovation.`,
+  about: `With a Bachelor's in Computer sceience`,
 };
 
 // Enter your Social Media URLs here

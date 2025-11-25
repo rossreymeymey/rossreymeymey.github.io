@@ -1,6 +1,6 @@
 module.exports = {
   content: ["./src/**/*.{js,jsx,ts,tsx}"],
-  theme: {
+ theme: {
     extend: {
       fontFamily: {
         primary: "Poppins, sans-serif",
@@ -14,6 +14,9 @@ module.exports = {
         "dark-card": "#363636",
         "green-text": "#018C0F",
         "greenbg": "#D7FFE0",
+      },
+       backgroundImage: {
+        'gradient': 'linear-gradient(135deg, #ff1493 0%, #ff6b9d 100%)',
       },
     },
   },
